@@ -1,4 +1,22 @@
-# MaterialNavTopHorizontal
+# Angular Material Navigation Top Horizontal using Schematic
+
+## Tools Used
+
+| Tool             |  Version |
+|:-----------------|---------:|
+| @Angular/CLI     | 19.0.2   |
+| Angular          |   19.0.1 |
+| Angular/Material |   19.0.2 |
+| WebStorm         | 2024.3.0 |
+| VSCode           |   1.95.3 |
+
+## Change History
+
+| Date       | Description                                   |
+|:-----------|:----------------------------------------------|
+| 2024-12-08 | Initial creation                              |
+
+## @angular/cli notes
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
