@@ -4,17 +4,27 @@
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     | 19.0.2   |
-| Angular          |   19.0.1 |
-| Angular/Material |   19.0.2 |
-| WebStorm         | 2024.3.0 |
-| VSCode           |   1.95.3 |
+| @Angular/CLI     |  19.2.13 |
+| Angular          |  19.2.12 |
+| Angular/Material |  19.2.17 |
+| node             |  22.14.0 |
+| npm              |   11.4.0 |
+| WebStorm         | 2025.1.1 |
+| VSCode           |  1.100.2 |
 
 ## Change History
 
-| Date       | Description                                   |
-|:-----------|:----------------------------------------------|
-| 2024-12-08 | Initial creation                              |
+| Date       | Description                                              |
+|:-----------|:---------------------------------------------------------|
+| 2024-12-08 | Initial creation                                         |
+| 2025-05-21 | upgrade to latest Angular 19.2 and Angular/Material 19.2 |
+
+## References
+
+* [Angular](https://angular.dev/overview)
+* [Angular Material](https://material.angular.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* [ng-bootstrap](https://ng-bootstrap.github.io/#/home)
 
 ## @angular/cli notes
 
